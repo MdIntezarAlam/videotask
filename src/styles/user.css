@@ -1,0 +1,72 @@
+.containers {
+    width: 100%;
+    height: 100vh;
+    background-color: cornflowerblue;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reg_success {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(13, 220, 13);
+    width: 95%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.div1 {
+    width: 95%;
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.div_1 {
+    width: 40vh;
+    height: 30vh;
+    background-color: black;
+    border-radius: 4px;
+}
+
+.div_1_video {
+    width: 100%;
+    height: 40vh;
+    cursor: pointer;
+}
+
+.div_2 {
+    width: 40vh;
+    height: 40vh;
+    background-color: black;
+    margin: 2px;
+    border-radius: 4px;
+}
+
+.div_3 {
+    width: 40vh;
+    height: 40vh;
+    background-color: black;
+    margin: 2px;
+}
+
+.div_4 {
+    width: 40vh;
+    height: 40vh;
+    background-color: rgb(8, 8, 8);
+    margin: 2px;
+}
+
+.div_5 {
+    width: 35vh;
+    height: 40vh;
+    background-color: rgb(10, 10, 10);
+    margin: 2px;
+}
